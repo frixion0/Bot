@@ -1,0 +1,6 @@
+{
+  "name": "XAUUSDT RSI Screener",
+  "description": "Real-time 3-minute chart and trading signal screener for XAUUSDT futures using an RSI crossover strategy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
